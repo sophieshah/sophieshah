@@ -16,8 +16,8 @@ Organizations: Women in Computer Science and Engineering (WiCSE), Society of Wom
 Florida Engineering Society (FES)
 
 ## Programming Skills
-Programming Languages: Python, C++, Java, HTML, CSS, SQL, Jupyter Notebook, React.JS
+Technical skills: Python, C++, Java, HTML, CSS, SQL, Jupyter Notebook, React.JS
 
-Programming Tools: Microsoft Visual Studio, Android Studio, Clion, PyCharm, GitHub, MatLab
+Developer Tools: Microsoft Visual Studio, Android Studio, Clion, PyCharm, GitHub, MatLab
 
 Problem Solving: Debugging, Troubleshooting
