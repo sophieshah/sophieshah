@@ -1,7 +1,7 @@
 ## Sophie Shah (she/her)
 Email: SophieShah922@gmail.com
 
-E-Portfolio: https://sophieshah922.wixsite.com/my-site-1 
+E-Portfolio: https://sophieshah922.wixsite.com/e-portfolio
 
 Linkedin: www.linkedin.com/in/sophie-shah-28b5a628a
 
