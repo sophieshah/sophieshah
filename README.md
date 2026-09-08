@@ -15,9 +15,14 @@ Certificate: Artificial Intelligence Fundamentals and Applications
 Organizations: Women in Computer Science and Engineering (WiCSE), Society of Women Engineers (SWE),
 Florida Engineering Society (FES)
 
-## Programming Skills
-Technical skills: Python, C++, Java, HTML, CSS, SQL, Jupyter Notebook, React.JS
+## Skills
+Programming: Python, C++, Java, SQL, JavaScript, HTML/CSS, Dart
 
-Developer Tools: Microsoft Visual Studio, Android Studio, Clion, PyCharm, GitHub, MatLab
+AI/ML: Natural Language Processing (NLP), Large Language Models (LLMs), Retrieval-Augmented Generation
+(RAG), OpenAI API
 
-Problem Solving: Debugging, Troubleshooting
+Frameworks/Tools: Flask, React.js, Flutter, SQLAlchemy, Qdrant, Docker, Git/GitHub, MATLAB
+
+Development: Full-Stack Web Development, Mobile Development, Data Analysis
+
+Data Science: PyTorch, NumPy, pandas, scikit-learn, Jupyter Notebook
